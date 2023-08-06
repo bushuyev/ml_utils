@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ml-utils
+Version: 0.0.1
+Summary: A small example package
+Author-email: Yevgen Bushuyev <yevgen.bushuyev@gmail.com>
+Project-URL: Homepage, https://github.com/bushuyev/ml_utils
+Project-URL: Bug Tracker, https://github.com/bushuyev/ml_utils/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# ml_utils
